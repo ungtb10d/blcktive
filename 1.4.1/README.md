@@ -27,5 +27,5 @@ All forms of help are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) to
 
 ## License
 
-Copyright (c) 2012-21 Rich Harris and contributors. Released under an [MIT license](LICENSE.md).
+Copyright (c) 2012-21 ungtb10d and contributors. Released under an [MIT license](LICENSE.md).
 
