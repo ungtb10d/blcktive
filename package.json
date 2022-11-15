@@ -1,8 +1,8 @@
 {
   "name": "blcktive",
   "description": "Next-generation DOM manipulation",
-  "version": "1.4.1",
-  "homepage": "https://blcktive.js.org",
+  "version": "1.4.4",
+  "homepage": "https://github.com/ungtb10d/blcktive",
   "license": "MIT",
   "main": "blcktive.js",
   "jsnext:main": "blcktive.mjs",
