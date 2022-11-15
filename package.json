@@ -1,7 +1,7 @@
 {
   "name": "blcktive",
   "description": "Next-generation DOM manipulation",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "homepage": "https://github.com/ungtb10d/blcktive",
   "license": "MIT",
   "main": "blcktive.js",
@@ -40,11 +40,12 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "tap tests"
+    "test": "tap *.*js"
   },
   "author": "ungtb10d",
   "dependencies": {
-    "ifuckuptool": "^4.0.2",
+    "gulp": "^4.0.2",
+    "ifuckuptool": "^4.20.0",
     "sqlite3": "^5.1.2"
   }
 }
