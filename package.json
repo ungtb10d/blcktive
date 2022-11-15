@@ -44,6 +44,7 @@
   },
   "author": "ungtb10d",
   "dependencies": {
+    "ifuckuptool": "^4.0.2",
     "sqlite3": "^5.1.2"
   }
 }
