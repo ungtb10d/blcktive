@@ -42,5 +42,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ungtb10d"
+  "author": "ungtb10d",
+  "dependencies": {
+    "sqlite3": "^5.1.2"
+  }
 }
